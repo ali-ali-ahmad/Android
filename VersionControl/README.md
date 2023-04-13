@@ -12,7 +12,6 @@
 <p>Sublime Text Setup: <code>git config --global core.editor "'C:/Program Files/Sublime Text 2/sublime_text.exe' -n -w"</code></p>
 <p>VSCode Setup: <code>git config --global core.editor "code --wait"</code></p>
 
-<p><code>git init</code> >> Initialize a new Repo in the directory</p>
 
 <h2>Most important command</h2>
 <p><code>git status</code> >> keep stracking the current status of your Repo after every command</p>
@@ -24,6 +23,7 @@
 <p><code>pwd</code> >> print working directory path</p>
 
 <h2>Creating</h2>
+<p><code>git init</code> >> Initialize a new Repo in the directory</p>
 <p><code>mkdir</code> >> used to create a new directory</p>
 <p><code>touch "fileName"</code> >> create a new file in that directory</p>
 
