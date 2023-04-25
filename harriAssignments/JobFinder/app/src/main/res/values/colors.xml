@@ -21,4 +21,5 @@
     <color name="colorPrimaryDark">#005B9F</color>
     <color name="colorAccent">#81D4FA</color>
 
+    <color name="splashScreenBackground">#475bd8</color>
 </resources>
