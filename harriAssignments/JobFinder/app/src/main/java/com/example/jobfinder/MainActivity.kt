@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+//      the following three onKeyListeners are to ease the keyboard control when entering data
+//      and being handled by the handleKeyEvent function below
         binding.userName.setOnKeyListener { view, keyCode, _ ->
             handleKeyEvent(view, keyCode)
         }
@@ -31,6 +33,8 @@ class MainActivity : AppCompatActivity() {
             handleKeyEvent(view, keyCode)
         }
 
+//      The following three addTextChangedListener are checking if there fields are filled with
+//      data or not, if all of them are, the create button will be activated.
         binding.userName.addTextChangedListener(object : TextWatcher {
             override fun afterTextChanged(s: Editable?) {
                 checkFields()
