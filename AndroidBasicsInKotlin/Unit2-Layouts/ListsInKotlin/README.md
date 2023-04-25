@@ -59,9 +59,12 @@ fun main() {
 
 <h5>Create a MutableList:</h5>
 <p>The following initiate an emty mutable list:</p>
+
 ```kt
 val entrees = mutableListOf<String>()
+
 <!-- or -->
+
 val entrees: MutableList<String> = mutableListOf()
 ```
 <h5>Add elements to a list:</h5>
