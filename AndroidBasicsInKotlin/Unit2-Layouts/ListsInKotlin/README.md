@@ -77,9 +77,11 @@ println("Add spaghetti: ${entrees.add("spaghetti")}")
 println("Entrees: $entrees")
 ```
 <p>The results should be</p>
-<code>Add spaghetti: true
+
+```
+Add spaghetti: true
 Entrees: [noodles, spaghetti]
-</code>
+```
 
 <p>You can also add a list into a mutable list:</p>
 
@@ -91,7 +93,7 @@ println("Entrees: $entrees")
 ```
 <p>outPut:</p>
 
-<code>
+```
 Add list: true
 Entrees: [noodles, spaghetti, ravioli, lasagna, fettuccine]
-</code>
+```
