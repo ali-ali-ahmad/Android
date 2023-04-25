@@ -77,8 +77,7 @@ println("Add spaghetti: ${entrees.add("spaghetti")}")
 println("Entrees: $entrees")
 ```
 <p>The results should be</p>
-<code>
-Add spaghetti: true
+<code>Add spaghetti: true
 Entrees: [noodles, spaghetti]
 </code>
 
