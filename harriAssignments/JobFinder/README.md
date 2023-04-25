@@ -1,4 +1,4 @@
-<h1>register assignment</h1>
+<h1>Register assignment</h1>
 
 <h3>Objectives</h3>
 
