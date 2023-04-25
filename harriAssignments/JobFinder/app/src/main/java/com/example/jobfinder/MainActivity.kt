@@ -1,8 +1,8 @@
 package com.example.jobfinder
 
+import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.content.Context
 import android.text.Editable
 import android.text.TextWatcher
 import android.view.KeyEvent
