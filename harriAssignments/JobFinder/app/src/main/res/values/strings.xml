@@ -9,9 +9,4 @@
     <string name="title">Create Account</string>
     <string name="logo">LOGO</string>
     <string name="sign_in">Already have an account? <font color="#4f62da">Sign in</font></string>
-    <string name="job_finder">JobFinder</string>
-    <string name="explore_your_dream_jobs">Explore your dream jobs</string>
-    <string name="logoSplashScreen">JobFinder</string>
-    <string name="titleSplashScreen">JobFinder</string>
-    <string name="descriptionSplashScreen">Explore your dream jobs</string>
 </resources>
